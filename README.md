@@ -11,9 +11,9 @@ Habilidades:
 - 🔭 Estoy trabajando en Paginas de FeedBack para mi empresa 
 - 🌱 Estoy aprendiendo python Java y C# en la facultad 
 
-<h3 align="left">Mi Portafolio</h3>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ignacio-velazquez.netlify.app/)  
- 
+### Mi Portafolio
+[![website](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg)](https://ignacio-velazquez.netlify.app/)
+
 
 <h3 align="left">Contactarme:</h3>
 <p align="left">

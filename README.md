@@ -1,6 +1,7 @@
 ### Hola 👋, Soy Nacho
 #### FullStack Developer
-<img src="https://drive.google.com/uc?id=1lrcUwggx0lNDbuwoGxp_oZmv6MLaK5In" alt="Descripción de la imagen">
+
+<img width="4950" height="1238" alt="portada linkedin" src="https://github.com/user-attachments/assets/a94a0636-3fb6-4dca-bf52-4c000bcd6625" />
 
 Soy desarrollador FullStack 3 años de experiencia en la creación de aplicaciones web. Actualmente, Trabajo con Django en el proyecto Quiscrape[https://quickscrape.net/]
 Habilidades: 

@@ -10,7 +10,7 @@ Habilidades:
 
 
 ### Mi Portafolio
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ignacio-velazquez.netlify.app/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>]([https://ignacio-velazquez.up.railway.app/)
 
 
 <h3 align="left">Contactarme:</h3>
